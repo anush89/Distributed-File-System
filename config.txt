@@ -1,0 +1,10 @@
+# Any text following ‘#’ should be ignored
+7 1 # number of servers and clients
+# NodeID - HostName - Port
+0 net01.utdallas.edu 60000 # location of node 0
+1 net02.utdallas.edu 60001 # location of node 1
+2 net03.utdallas.edu 60002 # location of node 2
+3 net04.utdallas.edu 60003 # location of node 3
+4 net05.utdallas.edu 60004 # location of node 4
+5 net06.utdallas.edu 60005 # location of node 5
+6 net07.utdallas.edu 60006 # location of node 6
